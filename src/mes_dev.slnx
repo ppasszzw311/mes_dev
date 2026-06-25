@@ -1,2 +1,9 @@
 <Solution>
+  <Project Path="../tests/mes_dev.application.tests/mes_dev.application.tests.csproj" Id="b1553b35-6e8b-4401-814b-a38bb0dd313b" />
+  <Project Path="../tests/mes_dev.infrastructure.tests/mes_dev.infrastructure.tests.csproj" Id="1e3fb449-6f71-4208-9201-08f0b938a0a1" />
+  <Project Path="mes_dev.application/mes_dev.application.csproj" Id="6bed1529-f0ae-4a50-be05-36c70b2dcf5c" />
+  <Project Path="mes_dev.domain/mes_dev.domain.csproj" Id="94bc938a-3c00-448f-aae6-cc6a11af167c" />
+  <Project Path="mes_dev.infrastracture/mes_dev.infrastracture.csproj" Id="a027ffc6-c1b0-40cf-b349-2ba34fd9c0c2" />
+  <Project Path="mes_dev.web/mes_dev.web.csproj" Id="c59a4640-ed17-48ae-b4e6-7dfc4829906f" />
+  <Project Path="mes_dev.worker/mes_dev.worker.csproj" Id="3d75fc68-42c6-4c7e-bddc-f9d6dded3e01" />
 </Solution>
